@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Calebe-Vieira">
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?Calebe-Vieira=YulietM&theme=react&line_height=40&hide=css"/>
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe-Vieira&layout=compact&langs_count=6&theme=tokyonight"/></a>
 
 </div>
